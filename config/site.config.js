@@ -14,7 +14,7 @@ module.exports = {
   icon: '/icons/128.png',
 
   // The name of your website. Present alongside your icon.
-  title: "Eric and Hank's OneDrive",
+  title: "ESH OneDrive",
 
   // The folder that you are to share publicly with onedrive-cf-index-ng. Use '/' if you want to share your root folder.
   baseDirectory: '/Share_Data',
@@ -48,9 +48,13 @@ module.exports = {
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
   // you provide. See the documentation for details.
   links: [
-    {
+      {
       name: 'Eric',
       link: 'https://www.ichika.tw',
+      },
+      {
+      name: 'Sora',
+      link: 'https://www.soradayo.net',
       },
       {
       name: 'Hank',
